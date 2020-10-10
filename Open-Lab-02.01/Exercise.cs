@@ -6,12 +6,13 @@ namespace Open_Lab_02._01
     {
         public double[] Create5Numbers()
         {
-            throw new NotImplementedException();
+            double[] cisla = new double[5];
+            return cisla;
         }
 
         public double GetSecond(double[] numbers)
         {
-            throw new NotImplementedException();
+            return 1;
         }
     }
 }
